@@ -1,2 +1,5 @@
 /node/03_Node_Package_Manager/node_modules
 /express/node_modules
+/ejs/node_modules
+/restapi/node_modules
+/mongodb/node_modules
