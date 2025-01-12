@@ -4,3 +4,6 @@
 /restapi/node_modules
 /mongodb/node_modules
 /bookstore/node_modules
+/auth/node_modules
+/auth/.env
+
